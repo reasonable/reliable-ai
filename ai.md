@@ -19,9 +19,11 @@ In systems where non-determinism is the norm, real-time visibility is crucial. W
 ### Reliable agentic loops:
 
 Reliable agentic AI relies on three interconnected loops:
-	* Reason: The agent's internal thought process needs to be bounded, consistent, and aligned.
-	* Action: The execution of tasks (LLMs, tools, APIs), which must remain safe, auditable, and goal-directed.
-	* Eval: The process of reflection and feedback, encompassing human interaction and self-reflection (e.g., LLM-as-a-Judge), to ensure continuous learning and improvement.
+* Reason: The agent's internal thought process needs to be bounded, consistent, and aligned.
+
+* Action: The execution of tasks (LLMs, tools, APIs), which must remain safe, auditable, and goal-directed.
+
+* Eval: The process of reflection and feedback, encompassing human interaction and self-reflection (e.g., LLM-as-a-Judge), to ensure continuous learning and improvement.
 
 Managing these loops seamlessly and cohesively ensures agent behavior remains stable, transparent, and trustworthy.
 
