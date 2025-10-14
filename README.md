@@ -1,0 +1,2 @@
+# reliable
+Reliable AI Manifesto
