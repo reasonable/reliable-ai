@@ -16,7 +16,7 @@ Operating systems that utilize both infrastructure and AI components as sources 
 
 In systems where non-determinism is the norm, real-time visibility is crucial. We need tools that provide high-level visualizations of agent interactions, event flows, LLM request/response, external tool communications, and decision paths. This enables continuous tracing of emergent behaviors, validation of system correctness, debugging, and rapid diagnosis of issues stemming from AI outputs or distributed inconsistencies. This includes tracking end-to-end system SLAs across distributed systems, multi-agent collaboration, and AI/LLM-specific metrics.
 
-### Reliable agentic loops:
+### Reliable Agentic Loops
 
 Reliable agentic AI relies on three interconnected loops:
 * Reason: The agent's internal thought process needs to be bounded, consistent, and aligned.
