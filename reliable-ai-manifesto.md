@@ -46,14 +46,17 @@ Open Source is the best way to advance Reliable Agentic AI, fostering community,
 If you share this vision, sign this Manifesto and join our community.
 
 -----
-Jonas Bonér
-Oli Dinov
-Vaibhav Gupta
-Arun Joseph
-Omar Khattab
-Alexy Khrabrov
-Erik Meijer
-Adam Pingel
-Christian Tzolov
-Oleg Shelajev
-James Ward
+Send a pull request with your name to sign!
+-----
+
+* Jonas Bonér
+* Oli Dinov
+* Vaibhav Gupta
+* Arun Joseph
+* Omar Khattab
+* Alexy Khrabrov
+* Erik Meijer
+* Adam Pingel
+* Christian Tzolov
+* Oleg Shelajev
+* James Ward
