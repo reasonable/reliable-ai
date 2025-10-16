@@ -6,7 +6,7 @@ Reliable Agentic AI is designed to embrace and manage uncertainty and randomness
 
 ### High-Productivity Developer Experience 
 
-We must minimize complexity and enforce consistency through guard-railed abstractions and reusable patterns. Fostering fast iteration, enabling developers to focus on agent logic and coordination, and mitigating instability in systems where both infrastructure and AI behaviors are non-deterministic. Leveraging LLMs through programming, rather than just prompting, unlocks the creation of novel AI-first languages and optimization frameworks. Key areas, such as type safety and new programming paradigms for composable content engineering, show great promise, alongside the crucial need to support the full developer experience for seamless integration and adoption. 
+We must minimize complexity and enforce consistency through guard-railed abstractions and reusable patterns. Fostering fast iteration, enabling developers to focus on agent logic and coordination, and mitigating instability in systems where both infrastructure and AI behaviors are non-deterministic. Leveraging LLMs through programming, rather than just prompting, unlocks the creation of novel AI-first languages and optimization frameworks. Key areas, such as type safety and new programming paradigms for composable content engineering, show great promise, alongside the crucial need to support the whole developer experience for seamless integration and adoption. 
 
 ### Scalable, Resilient, and Predictable Operationalization 
 
