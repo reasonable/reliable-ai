@@ -44,3 +44,16 @@ Open Source is the best way to advance Reliable Agentic AI, fostering community,
 
 * Agentic AI requires tooling to bound reasoning, action, and eval loops, ensuring they remain safe, stable, and aligned without runaway behavior.
 If you share this vision, sign this Manifesto and join our community.
+
+-----
+Jonas Bonér
+Oli Dinov
+Vaibhav Gupta
+Arun Joseph
+Omar Khattab
+Alexy Khrabrov
+Erik Meijer
+Adam Pingel
+Christian Tzolov
+Oleg Shelajev
+James Ward
