@@ -47,6 +47,6 @@ If you share this vision, sign this Manifesto and join our community.
 
 -----
 Signed: SIGNATORIES.md
-Send a pull request with your name to sign!
------
+
+**Send a pull request with your name to sign!**
 
