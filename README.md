@@ -4,4 +4,5 @@ This repository contains a set of principles for building Reliable Agentic AI. I
 
 Read the [reliable-ai-manifesto.md](https://github.com/reasonable/reliable/blob/main/reliable-ai-manifesto.md).
 
-See [CONTRIBUTORS.md](https://github.com/reasonable/reliable/blob/main/CONTRIBUTORS.md) for the list of the original authors.
+See [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md) for the list of the original authors.
+If you agree with the manifesto and want to sign it and join the community, please create a pull request and add your name to the [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md) file. 
