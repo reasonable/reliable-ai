@@ -13,3 +13,6 @@ The original working group that developed the Reliable Agentic AI Manifesto over
 - Christian Tzolov
 - Oleg Shelajev
 - James Ward
+
+# SIGNATORIES
+- Create a PR and add your name here if you want to sign the manifesto
