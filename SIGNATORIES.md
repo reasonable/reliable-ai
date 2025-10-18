@@ -15,4 +15,6 @@ The original working group that developed the Reliable Agentic AI Manifesto over
 - James Ward
 
 # SIGNATORIES
+- Nikita Ivanov
+
 - Create a PR and add your name here if you want to sign the manifesto
