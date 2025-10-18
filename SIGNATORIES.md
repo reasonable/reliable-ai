@@ -17,4 +17,9 @@ The original working group that developed the Reliable Agentic AI Manifesto over
 # SIGNATORIES
 - Nikita Ivanov
 
-- Create a PR and add your name here if you want to sign the manifesto
+-----
+To sign, you can either:
+
+* **Send a pull request adding your name to this document, [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md)**, or
+* **Cut an [issue](https://github.com/reasonable/reliable-ai/issues) with just your name**
+

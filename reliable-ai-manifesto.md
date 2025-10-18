@@ -48,5 +48,12 @@ If you share this vision, sign this Manifesto and join our community.
 -----
 Signed: SIGNATORIES.md
 
-**Send a pull request with your name to sign!**
+You can sign this manifesto too, and provide feedback or edits!
+
+To sign, you can either:
+
+* **Send a pull request adding your name to [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md)**, or
+* **Cut an [issue](https://github.com/reasonable/reliable-ai/issues) with your name**
+
+You can provide feedback as an issue or a pull request on the text of this document.
 
