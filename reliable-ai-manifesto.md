@@ -35,7 +35,7 @@ Managing these loops seamlessly and cohesively ensures agent behavior remains st
 
 * Multi-agent systems are best built upon the Actor Model, leveraging its principles of failure recovery, isolation, autonomy, resilience, and efficient concurrency.
 
-* Industrial strength in tooling, observability, and portability within the JVM ecosystem will remain the mainstay of enterprise-grade agentic AI, ensuring auditable, securable, and compliant systems.
+* Industrial strength in tooling, observability, and portability will remain the mainstay of enterprise-grade agentic AI, ensuring auditable, securable, and compliant systems.
 
 * Programming, rather than prompting LLMs, and the development of new AI-first programming languages with type safety will bring rigorous software engineering to the AI era.
 Open Source is the best way to advance Reliable Agentic AI, fostering community, collaboration, and innovation.
