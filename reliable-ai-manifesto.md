@@ -52,9 +52,9 @@ You can sign this manifesto too, and provide feedback or edits!
 
 To sign, you can either:
 
-* **Send a pull request adding your name to [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md)**, or
+* **Send a pull request adding your name to [SIGNATORIES.md](https://github.com/reasonable/reliable-ai/blob/main/SIGNATORIES.md)**, or
 * **Cut an [issue](https://github.com/reasonable/reliable-ai/issues) with your name**
-* **Answer the [Reliable Agentic AI Survey #1](https://bit.ly/reliable-ai)**, see which best practices apply, and add your name and optional feedback
+* **Answer the [Reliable Agentic AI Survey #1](https://docs.google.com/forms/d/1nyLnIZAoWo25prnDNe0xd3vrp7phXM7feI6ErNujaic)**, see which best practices apply, and add your name (with optional feedback)
 
 You can provide feedback as an issue, a pull request on the text of this document, or in the survey.  Cutting an issue is a good way to have a discussion right here, referencing other github nicks as needed.
 
