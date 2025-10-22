@@ -54,7 +54,7 @@ To sign, you can either:
 
 * **Send a pull request adding your name to [SIGNATORIES.md](https://github.com/reasonable/reliable/blob/main/SIGNATORIES.md)**, or
 * **Cut an [issue](https://github.com/reasonable/reliable-ai/issues) with your name**
-* **Answer the [Reliable Agentic AI Survey #1](https://bit.ly/reliable-ai), see which best practices apply, and add your name and optional feedback
+* **Answer the [Reliable Agentic AI Survey #1](https://bit.ly/reliable-ai)**, see which best practices apply, and add your name and optional feedback
 
 You can provide feedback as an issue or a pull request on the text of this document.
 
