@@ -56,5 +56,5 @@ To sign, you can either:
 * **Cut an [issue](https://github.com/reasonable/reliable-ai/issues) with your name**
 * **Answer the [Reliable Agentic AI Survey #1](https://bit.ly/reliable-ai)**, see which best practices apply, and add your name and optional feedback
 
-You can provide feedback as an issue or a pull request on the text of this document.
+You can provide feedback as an issue, a pull request on the text of this document, or in the survey.  Cutting an issue is a good way to have a discussion right here, referencing other github nicks as needed.
 
