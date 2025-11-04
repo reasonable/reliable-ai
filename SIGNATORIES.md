@@ -18,6 +18,7 @@ The original working group that developed the Reliable Agentic AI Manifesto over
 # SIGNATORIES
 - Nikita Ivanov
 - Prinkan Pal
+- Gauri Tike
 
 -----
 To sign, you can either:
